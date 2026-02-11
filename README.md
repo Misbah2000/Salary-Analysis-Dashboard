@@ -1,18 +1,10 @@
-💼 Salary Analysis Dashboard
-📊 Interactive Tableau Project for Salary Insights
+**💼 Salary Analysis Dashboard**
+
+*📊 Interactive Tableau Project for Salary Insights*
 
 📌 Project Overview
 
-The Salary Analysis Dashboard is an interactive Tableau project designed to analyze and visualize salary trends across different:
-
-👨‍💻 Job Roles
-
-🎓 Experience Levels
-
-📍 Locations
-
-🏢 Industries
-
+The Salary Analysis Dashboard is an interactive Tableau project designed to analyze and visualize salary trends across different.
 This dashboard helps in understanding compensation patterns and supports data-driven decision making.
 
 🎯 Project Objectives
