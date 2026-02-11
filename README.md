@@ -1,46 +1,46 @@
-**💼 Salary Analysis Dashboard**
+# 💼 Salary Analysis Dashboard  
 
-*📊 Interactive Tableau Project for Salary Insights*
+## 📌 Project Overview  
 
-📌 Project Overview
+The **Salary Analysis Dashboard** is an interactive **Tableau project** designed to analyze and visualize salary trends across different **job roles, experience levels, industries, and locations**.  
 
-The Salary Analysis Dashboard is an interactive Tableau project designed to analyze and visualize salary trends across different.
-This dashboard helps in understanding compensation patterns and supports data-driven decision making.
+This project demonstrates strong skills in **data analysis, data visualization, and dashboard design**, transforming raw data into meaningful business insights.
 
-🎯 Project Objectives
+---
 
-✔ Analyze salary distribution
-✔ Compare salaries across job roles
-✔ Study salary growth by experience
-✔ Identify high-paying industries
-✔ Build an interactive & professional dashboard
+## 🎯 Objectives  
 
-📊 Dashboard Features
+- Analyze **salary distribution patterns**  
+- Compare salaries across **different job roles**  
+- Study salary growth based on **experience level**  
+- Identify **high-paying industries and locations**  
+- Build an **interactive and user-friendly dashboard**  
 
-🔹 Interactive Filters
-🔹 Dynamic Salary Comparison
-🔹 Experience vs Salary Analysis
-🔹 Location-wise Salary Insights
-🔹 Industry Trend Visualization
-🔹 Clean & Professional Layout
+---
 
-🛠️ Tools & Technologies
-Tool	- Purpose
-Tableau Desktop -	Dashboard Creation
-Excel / CSV	- Data Source
-Data Cleaning -	Data Preparation
-Data Visualization	- Insight Generation
+## 📊 Key Features  
 
-📈 Key Insights
+- **Interactive Filters** for dynamic exploration  
+- **Experience vs Salary Analysis**  
+- **Location-wise Salary Comparison**  
+- **Industry Trend Visualization**  
+- Clean and professional **dashboard layout**  
 
-Senior-level professionals earn significantly higher salaries.
+---
 
-Salary increases consistently with experience.
+## 🛠️ Tools & Technologies  
 
-Location plays a major role in salary variation.
+- **Tableau Desktop** – Dashboard Development  
+- **Excel / CSV** – Data Source  
+- **Data Cleaning & Preparation**  
+- **Data Visualization Techniques**  
 
-Certain industries offer above-average compensation.
+---
 
-⭐ Support
+Passionate about turning **raw data into actionable insights**.
 
-If you found this project helpful, please consider giving it a ⭐ on GitHub!
+---
+
+⭐ If you like this project
+
+Give this repository a ⭐ on GitHub!
